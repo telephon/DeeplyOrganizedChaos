@@ -1,2 +1,2 @@
 # DeeplyOrganizedChaos
-deterministic unpredictability
+materials for the workshop

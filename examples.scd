@@ -9,6 +9,7 @@ put cursor somewhere between round brackets and hit cmd-enter to run code
 */
 
 
+
 (
 Ndef(\x, {
 	var x, c, m, sig;
@@ -147,8 +148,6 @@ Ndef(\x, {
 	LeakDC.ar(sig) ! 2 * 0.1
 }).play
 )
-
-
 
 
 
